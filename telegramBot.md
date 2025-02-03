@@ -2,9 +2,8 @@
 
 <h3>Qadamlar</h3>
 <b>1. Serverga kirish:</b>
-<b>
-Birinchi navbatda, serverga <i>SSH</i> orqali ulaning. Misol:
-</b>
+<br>
+<b>Birinchi navbatda, serverga <i>SSH</i> orqali ulaning. Misol:</b>
 
     $ ssh <username>@<server_ip>
 
